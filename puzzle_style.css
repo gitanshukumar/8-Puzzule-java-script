@@ -1,0 +1,21 @@
+body{
+    background-image: url(Project_L_medium.png);    
+}
+table{
+            width: 400px;
+            height: 400px;
+            background-image: linear-gradient(gray, white); 
+            margin-left: 20px;
+    margin-top: 20px;
+}
+        table,td{
+            padding: 10px;
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+input{
+    height: 130px;
+    width: 130px;
+   font-size: 50px;
+     background-image: linear-gradient(to bottom right, white, black);
+}
