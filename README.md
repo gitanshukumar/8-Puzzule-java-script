@@ -1,2 +1,2 @@
 # 8-Puzzule
-Using simple concept for making this puzzule
+This is quite simple approch, simple "switch case" was used in this java script side.
